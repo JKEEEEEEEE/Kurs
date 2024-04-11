@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursach_diplom_desctop.AdministratorMenu" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAGAAABFABAABAAACAEEAAEAEAAAAAACCAAQAAA=</HashCode>
+      <FileName>AdministratorMenu.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.Authorization" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAABAAABABIAAAkEAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Authorization.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.Bron" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Class Name="kursach_diplom_desctop.Bron.Hotel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Bron.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAhABAAAgAAAAEEAAAAAAAAAAAACAAAgAA=</HashCode>
+      <FileName>Bron.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.Eda" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Eda.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.nomer" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAA=</HashCode>
+      <FileName>nomer.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.Otzv" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Otzv.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.Sotrudnik" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Class Name="kursach_diplom_desctop.Sotrudnik.Tour" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sotrudnik.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAgAAAQEFAAAEAAAAAAAACgAAAAA=</HashCode>
+      <FileName>Sotrudnik.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach_diplom_desctop.Yslyga" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Yslyga.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,171 @@
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.csproj.AssemblyReference.cache
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Authorization.g.cs
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\MainWindow.g.cs
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\App.g.cs
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop_MarkupCompile.cache
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop_MarkupCompile.lref
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.exe.config
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.exe
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Authorization.baml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\MainWindow.baml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.g.resources
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.Properties.Resources.resources
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.csproj.GenerateResource.cache
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.csproj.CoreCompileInputs.cache
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.exe
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\AdministratorMenu.g.cs
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop_Content.g.cs
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\libSkiaSharp.dylib
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\x86\libSkiaSharp.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\x64\libSkiaSharp.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\arm64\libSkiaSharp.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ClosedXML.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.Interfaces.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.System.Drawing.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ExcelNumberFormat.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\FontAwesome.WPF.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\GLWpfControl.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Irony.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\OpenTK.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ScottPlot.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ScottPlot.WPF.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SixLabors.Fonts.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Buffers.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Drawing.Common.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.IO.Packaging.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Memory.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.ValueTuple.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\XLParser.dll
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ClosedXML.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ExcelNumberFormat.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\FontAwesome.WPF.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\GLWpfControl.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\OpenTK.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\OpenTK.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ScottPlot.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SixLabors.Fonts.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Buffers.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.IO.Packaging.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Memory.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.ValueTuple.xml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\AdministratorMenu.baml
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_.30F7E4FB.Up2Date
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Sotrudnik.g.cs
+D:\Users\Екатерина\source\repos\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Sotrudnik.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\libSkiaSharp.dylib
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\x86\libSkiaSharp.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\x64\libSkiaSharp.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\arm64\libSkiaSharp.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.exe.config
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.exe
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ClosedXML.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\DocumentFormat.OpenXml.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.Interfaces.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.System.Drawing.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ExcelNumberFormat.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\FontAwesome.WPF.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\GLWpfControl.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Irony.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Newtonsoft.Json.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\OpenTK.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ScottPlot.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ScottPlot.WPF.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SixLabors.Fonts.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Buffers.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.ComponentModel.Annotations.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Drawing.Common.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.IO.Packaging.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Memory.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Numerics.Vectors.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.ValueTuple.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\XLParser.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ClosedXML.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\DocumentFormat.OpenXml.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EPPlus.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ExcelNumberFormat.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\FontAwesome.WPF.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\GLWpfControl.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\Newtonsoft.Json.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\OpenTK.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\OpenTK.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ScottPlot.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SixLabors.Fonts.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Buffers.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.IO.Packaging.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Memory.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Numerics.Vectors.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\System.ValueTuple.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.csproj.AssemblyReference.cache
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\AdministratorMenu.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Authorization.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Bron.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\MainWindow.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Sotrudnik.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\App.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop_Content.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop_MarkupCompile.cache
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop_MarkupCompile.lref
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\AdministratorMenu.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Authorization.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Bron.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\MainWindow.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Sotrudnik.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.g.resources
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.Properties.Resources.resources
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.csproj.GenerateResource.cache
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.csproj.CoreCompileInputs.cache
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_.30F7E4FB.Up2Date
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.exe
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.pdb
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Otzv.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Otzv.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Eda.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Eda.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\nomer.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\nomer.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Yslyga.g.cs
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\Yslyga.baml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFramework.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFramework.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ru\EntityFramework.resources.dll

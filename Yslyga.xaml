@@ -1,0 +1,13 @@
+﻿<Window x:Class="kursach_diplom_desctop.Yslyga"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kursach_diplom_desctop"
+        mc:Ignorable="d"
+        Title="Yslyga" Height="300" Width="350">
+    <Grid>
+        <ComboBox Name="pit" HorizontalAlignment="Center" Height="57" Margin="0,5,0,0" VerticalAlignment="Top" Width="330" SelectionChanged="pit_SelectionChanged"/>
+        <ComboBox x:Name="price" HorizontalAlignment="Center" Height="57" Margin="0,67,0,0" VerticalAlignment="Top" Width="330" IsEditable="True" IsSynchronizedWithCurrentItem="True" Visibility="Hidden"/>
+    </Grid>
+</Window>

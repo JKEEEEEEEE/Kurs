@@ -1,0 +1,49 @@
+﻿<Window x:Class="kursach_diplom_desctop.Sotrudnik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kursach_diplom_desctop"
+        mc:Ignorable="d"
+        Title="Sotrudnik" WindowState="Maximized" WindowStyle="None">
+    <Grid>
+        <Button Content="Выйти" Height="35" Margin="25,20,0,0" VerticalAlignment="Top" Click="Button_Click" FontSize="24" HorizontalAlignment="Left" Width="90" FontWeight="Bold"/>
+        <Button Content="Завершить работу" Height="35" Margin="0,20,25,0" VerticalAlignment="Top" Click="Button_Click_2" FontSize="24" FontWeight="Bold" HorizontalAlignment="Right" Width="230"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="25,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" FontWeight="Bold" FontSize="16"><Run Language="ru-ru" Text="Тип тура"/></TextBlock>
+        <ComboBox Name="type" HorizontalAlignment="Left" Height="30" Margin="25,100,0,0" VerticalAlignment="Top" Width="350" SelectionChanged="type_SelectionChanged" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="410,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" FontWeight="Bold" FontSize="16"><Run Language="ru-ru" Text="Страна"/></TextBlock>
+        <ComboBox Name="country" HorizontalAlignment="Left" Height="30" Margin="410,100,0,0" VerticalAlignment="Top" Width="350" SelectionChanged="country_SelectionChanged" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="791,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" FontWeight="Bold" FontSize="16"><Run Language="ru-ru" Text="Город"/></TextBlock>
+        <ComboBox Name="city" Height="30" Margin="791,100,0,0" VerticalAlignment="Top" SelectionChanged="city_SelectionChanged" FontSize="16" HorizontalAlignment="Left" Width="350"/>
+        <ListView Name="listviewTour" MouseDoubleClick="ListView_MouseDoubleClick"  
+            Margin="25,140,25,0" d:ItemsSource="{d:SampleData ItemCount=1}" VerticalAlignment="Top" Foreground="Black" FontSize="24">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Фото" Width="160">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Path=Link_Photo}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Type_Tours}" 
+                        Header="Тип тура"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Price_Tours}" 
+                        Header="Цена"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Name_Country}" 
+                        Header="Страна"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Name_City}" 
+                        Header="Город"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Start_Date_Tours}" 
+                        Header="Начало тура"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding End_Date_Tours}" 
+                        Header="Конец тура"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Description_Tours}" 
+                        Header="Описание тура"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Reservation_Number_Tours}" 
+                        Header="Количество билетов"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
