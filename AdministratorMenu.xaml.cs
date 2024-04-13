@@ -101,7 +101,9 @@ namespace kursach_diplom_desctop
 					string json1 = await response1.Content.ReadAsStringAsync();
 					List<City> data1 = JsonConvert.DeserializeObject<List<City>>(json1);
 					DateTable.ItemsSource = data1;
-
+					DateTable.Columns[0].Header = "Код города";
+					DateTable.Columns[1].Header = "Название города";
+					DateTable.Columns[2].Header = "Код отеля";
 					break;
 				case 2:
 					DateTable.ItemsSource = new List<Order>();
@@ -109,7 +111,10 @@ namespace kursach_diplom_desctop
 					string json2 = await response2.Content.ReadAsStringAsync();
 					List<Country> data2 = JsonConvert.DeserializeObject<List<Country>>(json2);
 					DateTable.ItemsSource = data2;
-
+					DateTable.Columns[0].Header = "Код Страны";
+					DateTable.Columns[1].Header = "Название Страны";
+					DateTable.Columns[2].Header = "Код города";
+					DateTable.Columns[3].Header = "Код турестического маршрута";
 					break;
 				case 3:
 					DateTable.ItemsSource = new List<Order>();
@@ -117,7 +122,10 @@ namespace kursach_diplom_desctop
 					string json3 = await response3.Content.ReadAsStringAsync();
 					List<Food> data3 = JsonConvert.DeserializeObject<List<Food>>(json3);
 					DateTable.ItemsSource = data3;
-
+					DateTable.Columns[0].Header = "Код Питания";
+					DateTable.Columns[1].Header = "Цена";
+					DateTable.Columns[2].Header = "Блюдо";
+					DateTable.Columns[3].Header = "Описание";
 					break;
 				case 4:
 					DateTable.ItemsSource = new List<Order>();
@@ -125,7 +133,9 @@ namespace kursach_diplom_desctop
 					string json4 = await response4.Content.ReadAsStringAsync();
 					List<Hotel> data4 = JsonConvert.DeserializeObject<List<Hotel>>(json4);
 					DateTable.ItemsSource = data4;
-
+					DateTable.Columns[0].Header = "Код отеля";
+					DateTable.Columns[1].Header = "Категория";
+					DateTable.Columns[2].Header = "Название";
 					break;
 				case 5:
 					DateTable.ItemsSource = new List<Order>();
@@ -133,7 +143,10 @@ namespace kursach_diplom_desctop
 					string json5 = await response5.Content.ReadAsStringAsync();
 					List<Payment> data5 = JsonConvert.DeserializeObject<List<Payment>>(json5);
 					DateTable.ItemsSource = data5;
-\
+					DateTable.Columns[0].Header = "Код оплата";
+					DateTable.Columns[1].Header = "Сумма";
+					DateTable.Columns[2].Header = "Дата";
+					DateTable.Columns[2].Header = "Статус";
 					break;
 				case 6:
 					DateTable.ItemsSource = new List<Order>();
@@ -141,7 +154,9 @@ namespace kursach_diplom_desctop
 					string json6 = await response6.Content.ReadAsStringAsync();
 					List<Photo> data6 = JsonConvert.DeserializeObject<List<Photo>>(json6);
 					DateTable.ItemsSource = data6;
-
+					DateTable.Columns[0].Header = "Код Фото";
+					DateTable.Columns[1].Header = "Название";
+					DateTable.Columns[2].Header = "Ссылка";
 					break;
 				case 7:
 					DateTable.ItemsSource = new List<Order>();
@@ -149,7 +164,9 @@ namespace kursach_diplom_desctop
 					string json7 = await response7.Content.ReadAsStringAsync();
 					List<PlacesVisited> data7 = JsonConvert.DeserializeObject<List<PlacesVisited>>(json7);
 					DateTable.ItemsSource = data7;
-
+					DateTable.Columns[0].Header = "Код Посещаемого места";
+					DateTable.Columns[1].Header = "Название";
+					DateTable.Columns[2].Header = "Описание";
 					break;
 				case 8:
 					DateTable.ItemsSource = new List<Order>();
@@ -157,7 +174,11 @@ namespace kursach_diplom_desctop
 					string json8 = await response8.Content.ReadAsStringAsync();
 					List<Review> data8 = JsonConvert.DeserializeObject<List<Review>>(json8);
 					DateTable.ItemsSource = data8;
-
+					DateTable.Columns[0].Header = "Код Отзова";
+					DateTable.Columns[1].Header = "Оценка";
+					DateTable.Columns[2].Header = "Описание";
+					DateTable.Columns[3].Header = "Дата";
+					DateTable.Columns[4].Header = "Код пользователя";
 					break;
 				case 9:
 					DateTable.ItemsSource = new List<Order>();
@@ -165,7 +186,8 @@ namespace kursach_diplom_desctop
 					string json9 = await response9.Content.ReadAsStringAsync();
 					List<Role> data9 = JsonConvert.DeserializeObject<List<Role>>(json9);
 					DateTable.ItemsSource = data9;
-
+					DateTable.Columns[0].Header = "Код Роли";
+					DateTable.Columns[1].Header = "Наименование";
 					break;
 				case 10:
 					DateTable.ItemsSource = new List<Order>();
@@ -173,7 +195,11 @@ namespace kursach_diplom_desctop
 					string json10 = await response10.Content.ReadAsStringAsync();
 					List<Room> data10 = JsonConvert.DeserializeObject<List<Room>>(json10);
 					DateTable.ItemsSource = data10;
-
+					DateTable.Columns[0].Header = "Код Номера";
+					DateTable.Columns[1].Header = "Колличество детей";
+					DateTable.Columns[2].Header = "Колличество взрослых";
+					DateTable.Columns[3].Header = "Код Фото";
+					DateTable.Columns[4].Header = "Код Тип номера";
 					break;
 				case 11:
 					DateTable.ItemsSource = new List<Order>();
@@ -181,7 +207,9 @@ namespace kursach_diplom_desctop
 					string json11 = await response11.Content.ReadAsStringAsync();
 					List<RoomType> data11 = JsonConvert.DeserializeObject<List<RoomType>>(json11);
 					DateTable.ItemsSource = data11;
-
+					DateTable.Columns[0].Header = "Код Типа номера";
+					DateTable.Columns[1].Header = "Название";
+					DateTable.Columns[2].Header = "Цена";
 					break;
 				case 12:
 					DateTable.ItemsSource = new List<Order>();
@@ -189,7 +217,9 @@ namespace kursach_diplom_desctop
 					string json12 = await response12.Content.ReadAsStringAsync();
 					List<Service> data12 = JsonConvert.DeserializeObject<List<Service>>(json12);
 					DateTable.ItemsSource = data12;
-
+					DateTable.Columns[0].Header = "Код Услуги";
+					DateTable.Columns[1].Header = "Название";
+					DateTable.Columns[2].Header = "Цена";
 					break;
 				case 13:
 					DateTable.ItemsSource = new List<Order>();
@@ -197,7 +227,9 @@ namespace kursach_diplom_desctop
 					string json13 = await response13.Content.ReadAsStringAsync();
 					List<Token> data13 = JsonConvert.DeserializeObject<List<Token>>(json13);
 					DateTable.ItemsSource = data13;
-
+					DateTable.Columns[0].Header = "Код Токена";
+					DateTable.Columns[1].Header = "Уникальный токен";
+					DateTable.Columns[2].Header = "Дата и время";
 					break;
 				case 14:
 					DateTable.ItemsSource = new List<Order>();
@@ -205,7 +237,20 @@ namespace kursach_diplom_desctop
 					string json14 = await response14.Content.ReadAsStringAsync();
 					List<Tour> data14 = JsonConvert.DeserializeObject<List<Tour>>(json14);
 					DateTable.ItemsSource = data14;
-
+					DateTable.Columns[0].Header = "Код Тура";
+					DateTable.Columns[1].Header = "Описание";
+					DateTable.Columns[2].Header = "Дата начала";
+					DateTable.Columns[3].Header = "Дата окончания";
+					DateTable.Columns[4].Header = "Тип тура";
+					DateTable.Columns[5].Header = "Цена";
+					DateTable.Columns[6].Header = "Номер брони";
+					DateTable.Columns[7].Header = "Дата бронирования";
+					DateTable.Columns[8].Header = "Статус бронирования";
+					DateTable.Columns[9].Header = "Код Отзовы";
+					DateTable.Columns[10].Header = "Код Платежа";
+					DateTable.Columns[11].Header = "Код Пользователя";
+					DateTable.Columns[12].Header = "Код Фото";
+					DateTable.Columns[13].Header = "Код Страны";
 					break;
 				case 15:
 					DateTable.ItemsSource = new List<Order>();
@@ -213,7 +258,15 @@ namespace kursach_diplom_desctop
 					string json15 = await response15.Content.ReadAsStringAsync();
 					List<TouristRoute> data15 = JsonConvert.DeserializeObject<List<TouristRoute>>(json15);
 					DateTable.ItemsSource = data15;
-
+					DateTable.Columns[0].Header = "Код турестических маршрутов";
+					DateTable.Columns[1].Header = "Описание";
+					DateTable.Columns[2].Header = "Продолжительность";
+					DateTable.Columns[3].Header = "Название";
+					DateTable.Columns[4].Header = "Дата";
+					DateTable.Columns[5].Header = "Время";
+					DateTable.Columns[6].Header = "Максимум туристов";
+					DateTable.Columns[7].Header = "Код Фото";
+					DateTable.Columns[8].Header = "Код Посещаемых мест";
 					break;
 				case 16:
 					DateTable.ItemsSource = new List<Order>();
@@ -221,7 +274,16 @@ namespace kursach_diplom_desctop
 					string json16 = await response16.Content.ReadAsStringAsync();
 					List<User> data16 = JsonConvert.DeserializeObject<List<User>>(json16);
 					DateTable.ItemsSource = data16;
-
+					DateTable.Columns[0].Header = "Код Пользователя";
+					DateTable.Columns[1].Header = "Фамилия";
+					DateTable.Columns[2].Header = "Имя";
+					DateTable.Columns[3].Header = "Отчество";
+					DateTable.Columns[4].Header = "Логин";
+					DateTable.Columns[5].Header = "Хешированный пароль";
+					DateTable.Columns[6].Header = "Соль";
+					DateTable.Columns[7].Header = "Город";
+					DateTable.Columns[8].Header = "Код Роли";
+					DateTable.Columns[9].Header = "Код Токена";
 
 					break;
 			}
