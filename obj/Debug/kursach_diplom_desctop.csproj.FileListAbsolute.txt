@@ -169,3 +169,7 @@ D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFram
 D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFramework.xml
 D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\EntityFramework.SqlServer.xml
 D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\ru\EntityFramework.resources.dll
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.exe.manifest
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\bin\Debug\kursach_diplom_desctop.application
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.exe.manifest
+D:\vs proekts\kursach_diplom_desctop\kursach_diplom_desctop\obj\Debug\kursach_diplom_desctop.application
